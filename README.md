@@ -21,3 +21,15 @@ Sunset:
 
 Morning:
 - #FFFAF3,#575279,#FFFAF3,#797593,#C8A299,#FFFAF3
+
+## Screenshots
+
+### Midnight
+![Midnight](https://github.com/Serendipity-Theme/linear-app/blob/main/Midnight.png?raw=true)
+
+### Sunset
+![Sunset](https://github.com/Serendipity-Theme/linear-app/blob/main/Sunset.png?raw=true)
+
+### Morning
+![Morning](https://github.com/Serendipity-Theme/linear-app/blob/main/Morning.png?raw=true)
+
