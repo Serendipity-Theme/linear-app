@@ -34,3 +34,4 @@ Morning:
 ### Morning
 ![Morning](https://github.com/Serendipity-Theme/linear-app/blob/main/Morning.png?raw=true)
 
+Serendipity Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported by Mike.
